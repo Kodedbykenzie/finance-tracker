@@ -78,7 +78,3 @@ This project is open-source and released under the MIT License. Feel free to con
 
 - This program was developed as part of learning and managing personal finances through programming.
 - Thanks to the C++ community for contributing to C++11 and beyond!
-
---- 
-
-This version of the README is written in plain text, without markdown formatting.
