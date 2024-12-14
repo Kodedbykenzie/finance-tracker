@@ -1,7 +1,3 @@
-Here is the README in a normal, non-markdown format:
-
----
-
 # Personal Finance Tracker in C++
 
 ## Overview
