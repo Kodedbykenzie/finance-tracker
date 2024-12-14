@@ -1,6 +1,7 @@
-Here's a sample **README.md** file for your **Personal Finance Tracker** C++ project:
+Here is the README in a normal, non-markdown format:
 
-```markdown
+---
+
 # Personal Finance Tracker in C++
 
 ## Overview
@@ -24,22 +25,22 @@ The application uses C++ and its built-in libraries to create a simple, user-fri
 ## Installation
 
 1. Clone this repository (or download the `finance.cpp` file).
-   ```bash
+   ```
    git clone https://github.com/Kodedbykenzie/finance-tracker.git
    ```
 
 2. Navigate to the project directory.
-   ```bash
+   ```
    cd Personal-Finance-Tracker
    ```
 
 3. Compile the program using a C++ compiler. Make sure to use the **C++11** standard or later.
-   ```bash
+   ```
    g++ -std=c++11 finance.cpp -o finance
    ```
 
 4. After successful compilation, run the program:
-   ```bash
+   ```
    ./finance
    ```
 
@@ -55,7 +56,7 @@ Once the program is running, you can interact with the application through the f
 
 ## Example
 
-```plaintext
+```
 Personal Finance Tracker
 1. Add Expense
 2. View Expenses
@@ -73,7 +74,6 @@ Enter expense date (YYYY-MM-DD): 2024-12-14
 Expense added successfully!
 ```
 
-
 ## License
 
 This project is open-source and released under the MIT License. Feel free to contribute or modify it to suit your needs.
@@ -83,5 +83,6 @@ This project is open-source and released under the MIT License. Feel free to con
 - This program was developed as part of learning and managing personal finances through programming.
 - Thanks to the C++ community for contributing to C++11 and beyond!
 
-```
+--- 
 
+This version of the README is written in plain text, without markdown formatting.
